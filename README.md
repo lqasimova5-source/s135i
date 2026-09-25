@@ -12,6 +12,11 @@ A responsive class website created for the S135i Computer Engineering group. It 
 - Accessibility improvements
 - Custom visual identity
 
+## Live Demo
+
+[View the live website](https://s135ipisqilar.vercel.app)
+
+
 ##  Built With
 
 - HTML5
